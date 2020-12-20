@@ -1,4 +1,5 @@
 # highcharts
  Testing highcharts for python
 
-![desc]('./results/charts.html')
+
+<script src="./results/charts.html"> </script>
