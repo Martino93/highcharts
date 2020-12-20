@@ -1,6 +1,3 @@
-# highcharts
- Testing highcharts for python
-
 from highcharts import Highchart
 
 results = './results/charts'
