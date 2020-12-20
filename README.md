@@ -2,4 +2,4 @@
  Testing highcharts for python
 
 
-<script src="./results/charts.html"> </script>
+![my_chart](./results/charts.html)
